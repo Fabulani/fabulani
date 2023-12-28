@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+Visit my website at [bit.ly/manschein](https://bit.ly/manschein)!
+
+
 <!--
 **Fabulani/fabulani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
